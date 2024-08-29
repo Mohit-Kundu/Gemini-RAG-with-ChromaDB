@@ -1,10 +1,6 @@
 # Gemini-RAG-with-ChromaDB
 A modular Retrieval-Augmented Generation (RAG) chatbot built with LangChain, Google Generative AI, and Streamlit for advanced document-based Q&amp;A.
 
-# Gemini RAG Chatbot
-
-A modular Retrieval-Augmented Generation (RAG) chatbot built with LangChain, Google Generative AI, and Streamlit for advanced document-based Q&A.
-
 ## Features
 
 - **Google Generative AI Integration:** Leverages the Gemini model for generating human-like responses.
